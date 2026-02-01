@@ -2,3 +2,5 @@ build/
 *.o
 *.log
 __pycache__/
+
+// Incremental development step #1
