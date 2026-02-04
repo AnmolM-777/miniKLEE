@@ -4,3 +4,5 @@
 #include <string>
 class VulnChecker { public: static bool check_cwe121_stack_overflow(Z3SolverWrapper& solver, int buffer_size); static bool check_cwe122_heap_overflow(Z3SolverWrapper& solver, int alloc_size); };
 #endif
+
+// Incremental development step #7
