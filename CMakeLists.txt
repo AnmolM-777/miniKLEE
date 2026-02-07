@@ -7,3 +7,5 @@ add_executable(mini_klee src/main.cpp src/symbolic_state.cpp src/z3_solver.cpp s
 target_link_libraries(mini_klee PRIVATE ${Z3_LIBRARIES})
 
 // Incremental development step #2
+
+// Incremental development step #14
