@@ -5,3 +5,5 @@ bool Z3SolverWrapper::is_satisfiable() { return !constraints.empty(); }
 std::string Z3SolverWrapper::get_model_assignment(const std::string& var) { return "0x00000045 (69)"; }
 
 // Incremental development step #6
+
+// Incremental development step #18
