@@ -9,3 +9,5 @@ target_link_libraries(mini_klee PRIVATE ${Z3_LIBRARIES})
 // Incremental development step #2
 
 // Incremental development step #14
+
+// Incremental development step #26
