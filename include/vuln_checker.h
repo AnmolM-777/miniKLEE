@@ -8,3 +8,5 @@ class VulnChecker { public: static bool check_cwe121_stack_overflow(Z3SolverWrap
 // Incremental development step #7
 
 // Incremental development step #19
+
+// Incremental development step #31
