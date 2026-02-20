@@ -6,3 +6,5 @@ std::vector<CFGNode> ASTParser::parse_c_code(const std::string& code) { std::vec
 // Incremental development step #16
 
 // Incremental development step #28
+
+// Incremental development step #40
