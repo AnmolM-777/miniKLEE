@@ -11,3 +11,5 @@ class Z3SolverWrapper { std::map<std::string, int> symbolic_vars; std::vector<st
 // Incremental development step #17
 
 // Incremental development step #29
+
+// Incremental development step #41
