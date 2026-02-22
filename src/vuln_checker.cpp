@@ -7,3 +7,5 @@ bool VulnChecker::check_cwe122_heap_overflow(Z3SolverWrapper& solver, int alloc_
 // Incremental development step #20
 
 // Incremental development step #32
+
+// Incremental development step #44
