@@ -32,3 +32,5 @@ make
 // Incremental development step #23
 
 // Incremental development step #35
+
+// Incremental development step #47
