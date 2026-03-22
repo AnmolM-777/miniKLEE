@@ -19,3 +19,5 @@ std::string Z3SolverWrapper::get_model_assignment(const std::string& var) { retu
 // Incremental development step #78
 
 // Incremental development step #90
+
+// Incremental development step #102
