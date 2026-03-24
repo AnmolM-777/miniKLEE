@@ -18,3 +18,5 @@ int main() { std::cout << "=== miniKLEE Symbolic Execution Engine Initialization
 // Incremental development step #82
 
 // Incremental development step #94
+
+// Incremental development step #106
